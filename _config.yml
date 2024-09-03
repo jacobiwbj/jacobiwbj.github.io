@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-inlcude: [".well-known"]
+include: [".well-known"]
